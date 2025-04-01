@@ -14,8 +14,6 @@ A web application for interacting with the Binance Smart Chain (BSC) network, fe
 
 - Node.js (v14 or higher)
 - npm or yarn
-- MetaMask or another Web3 wallet
-- BSC network configured in your wallet
 
 ## Installation
 
@@ -43,7 +41,7 @@ The application will open in your default browser at `http://localhost:3000`.
 
 ## Usage
 
-1. Connect your Web3 wallet (MetaMask recommended)
+1. Enter private keys 
 2. Choose the operation you want to perform:
    - Transactions: Send BNB to other addresses
    - PancakeSwap: Swap tokens using PancakeSwap
